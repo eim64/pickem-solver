@@ -1,0 +1,12 @@
+precomputed.hpp
+*.o
+*.obj
+*.out
+*.exe
+*.dSYM/
+build/
+bin/
+ev_solver
+solver
+simulate_bracket
+generate_precomp
